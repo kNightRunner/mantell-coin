@@ -26,7 +26,6 @@ iii) Confirm on MetaMask pop-up window.
 ---
 
 # References
-* Columbia University Fintech Bootcamp Repository
 * http://remix.ethereum.org/
 * https://faucet.ropsten.be/
 * https://kovan.etherscan.io/
