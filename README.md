@@ -8,9 +8,9 @@ Crowd-selling MantellCoin coded on Solidity to fund generic trailing project.Con
 ### **Transaction on EtherScan for # MantellCoin Contract Deployment**
 ![Transaction of MantellCoin](images/contract_deployed_verif.png)
 
-### **Crowdsale Contract Deployment on Remix**
+### **Crowdsale Contract Deployment on VSC**
 
-**Step 1. Deploy PupperCoinsSale Deployer Contract**
+**Step 1. Deploy  Deployer Contract**
 
 i) Enter the following information at **DEPLOY**:
 ```
